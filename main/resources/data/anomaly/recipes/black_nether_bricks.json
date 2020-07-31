@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NI",
+    "IN"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:black_dye"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "anomaly:black_nether_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "anomaly:blue_granite"
+  },
+  "result": "anomaly:polished_blue_granite_slab",
+  "count": 2
+}

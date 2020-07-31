@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "anomaly:black_nether_bricks"
+    }
+  },
+  "result": {
+    "item": "anomaly:black_nether_brick_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "anomaly:polished_blue_granite"
+    }
+  },
+  "result": {
+    "item": "anomaly:polished_blue_granite_stairs",
+    "count": 4
+  }
+}

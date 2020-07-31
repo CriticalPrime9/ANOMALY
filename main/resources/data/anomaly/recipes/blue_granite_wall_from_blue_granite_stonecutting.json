@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "anomaly:blue_granite"
+  },
+  "result": "anomaly:blue_granite_wall",
+  "count": 1
+}

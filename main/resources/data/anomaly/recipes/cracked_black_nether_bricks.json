@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "anomaly:black_nether_bricks"
+  },
+  "result": "anomaly:cracked_black_nether_bricks",
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,22 @@
+{
+	"block.anomaly.black_nether_bricks": "Black Nether Bricks",
+	"block.anomaly.black_nether_brick_stairs": "Black Nether Brick Stairs",
+	"block.anomaly.black_nether_brick_slab": "Black Nether Brick Slab",
+	"block.anomaly.black_nether_brick_wall": "Black Nether Brick Wall",
+	"block.anomaly.black_nether_brick_fence": "Black Nether Brick Fence",
+	"block.anomaly.cracked_black_nether_brick": "Cracked Black Nether Brick",
+	"block.anomaly.chiseled_black_nether_brick": "Chiseled Black Nether Brick",
+	"block.anomaly.blue_granite": "Blue Granite",
+	"block.anomaly.blue_granite_stairs": "Blue Granite Stairs",
+	"block.anomaly.blue_granite_wall": "Blue Granite Wall",
+	"block.anomaly.blue_granite_slab": "Blue Granite Slab",
+	"block.anomaly.polished_blue_granite": "Polished Blue Granite",
+	"block.anomaly.polished_blue_granite_stairs": "Polished Blue Granite Stairs",
+	"block.anomaly.polished_blue_granite_slab": "Polished Blue Granite Slab",
+	"block.anomaly.quartered_stone_bricks": "Quartered Stone Bricks",
+	"block.anomaly.quartered_stone_brick_stairs": "Quartered Stone Brick Stairs",
+	"block.anomaly.quartered_stone_brick_slab": "Quartered Stone Brick Slab",
+	"block.anomaly.quartered_stone_brick_wall": "Quartered Stone Brick Wall",
+
+	"itemGroup.anomaly": "Anomaly"
+}

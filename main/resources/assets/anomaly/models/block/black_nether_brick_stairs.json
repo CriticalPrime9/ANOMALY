@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "anomaly:block/black_nether_bricks",
+        "top": "anomaly:block/black_nether_bricks",
+        "side": "anomaly:block/black_nether_bricks"
+    }
+}

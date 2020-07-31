@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "anomaly:block/quartered_stone_bricks",
+        "top": "anomaly:block/quartered_stone_bricks",
+        "side": "anomaly:block/quartered_stone_bricks"
+    }
+}

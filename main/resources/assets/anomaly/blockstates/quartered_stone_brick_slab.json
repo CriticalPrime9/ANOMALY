@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "anomaly:block/quartered_stone_brick_slab" },
+        "type=top": { "model": "anomaly:block/quartered_stone_brick_slab_top" },
+        "type=double": { "model": "anomaly:block/quartered_stone_bricks" }
+    }
+}

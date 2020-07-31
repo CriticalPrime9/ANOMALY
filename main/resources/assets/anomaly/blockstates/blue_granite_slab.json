@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "anomaly:block/blue_granite_slab" },
+        "type=top": { "model": "anomaly:block/blue_granite_slab_top" },
+        "type=double": { "model": "anomaly:block/blue_granite" }
+    }
+}

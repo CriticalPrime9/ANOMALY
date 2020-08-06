@@ -1,6 +1,7 @@
 package com.criticalprime9.anomaly.events;
 
 import com.criticalprime9.anomaly.Anomaly;
+import com.criticalprime9.anomaly.init.blocks.BlockInit;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
@@ -44,7 +45,7 @@ public class DiffuseEventHandler {
 		if(!stack.isEmpty() && stack.getItem() instanceof ShearsItem) {
 			if(state.getBlock() == Blocks.TNT)
 			//Replace Block.
-				world.setBlockState(pos, Blocks.DIRT.getDefaultState());
+				world.setBlockState(pos, BlockInit.DIFFUSED_TNT.get().getDefaultState());
 			//Items.
 				Direction direction = event.getFace();
 				Direction direction1 = direction.getAxis() == Direction.Axis.Y ? player.getHorizontalFacing().getOpposite() : direction;

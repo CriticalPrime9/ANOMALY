@@ -46,4 +46,8 @@ public class BlockInit {
 	public static final RegistryObject<Block> CRACKED_BLACK_NETHER_BRICKS = BLOCKS.register("cracked_black_nether_bricks", () -> new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(2.0F, 6.0F)));
 	public static final RegistryObject<Block> CHISELED_BLACK_NETHER_BRICKS = BLOCKS.register("chiseled_black_nether_bricks", () -> new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(2.0F, 6.0F)));
 
+	/**
+	 * Diffused TNT
+	 */
+	public static final RegistryObject<Block> DIFFUSED_TNT = BLOCKS.register("diffused_tnt", () -> new Block(Block.Properties.create(Material.TNT).zeroHardnessAndResistance().sound(SoundType.PLANT)));
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "anomaly:block/diffused_tnt_top",
+    "bottom": "minecraft:block/tnt_bottom",
+    "side": "minecraft:block/tnt_side"
+  }
+}

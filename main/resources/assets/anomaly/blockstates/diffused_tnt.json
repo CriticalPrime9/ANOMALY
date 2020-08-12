@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "anomaly:block/diffused_tnt"
+    }
+  }
+}
